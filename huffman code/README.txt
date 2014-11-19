@@ -1,0 +1,1 @@
+In this code, I have implemented the huffman coding algorithm for data compression and compared the performance for text, audio, image and binary files

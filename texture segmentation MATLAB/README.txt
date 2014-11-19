@@ -1,0 +1,1 @@
+In this code, I have implemented the texture classification in MATLAB for 12 different textures.
